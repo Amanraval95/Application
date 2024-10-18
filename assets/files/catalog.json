@@ -1,0 +1,53 @@
+{
+ "products": [
+    {
+        "id": 1,
+        "name":  "Sony Headphones",
+        "desc":  "Sony Bluetooth Headphones with Massive Bass,Active Noise Cancelling,Battery 50Hrs",
+        "price":  999,
+        "color": "#33505a",
+        "image": "assets/images/307143_hyfwmf.png"
+    },
+    {
+        "id": 2,
+        "name":  "Nothing",
+        "desc":  "Nothing Phone 2a 5G (12GB RAM, 256GB, White)",
+        "price":  879,
+        "color": "#33505a",
+        "image": "assets/images/Nothing-Phone-2a-1.png"
+    },
+    {
+        "id": 3,
+        "name":  "Samsung",
+        "desc":  "Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Gray, 12GB, 256GB Storage)",
+        "price":  999,
+        "color": "#33505a",
+        "image": "assets/images/Samsung.png"
+    },
+    {
+        "id": 4,
+        "name":  "realme NARZO 70 Pro",
+        "desc":  "realme NARZO 70 Pro 5G (Glass Green, 8GB RAM,128GB Storage) ",
+        "price":  799,
+        "color": "#33505a",
+        "image": "assets/images/Realme-Narzo70Pro.png"
+    },
+    {
+        "id": 5,
+        "name":  "Redmi 13C",
+        "desc":  "Redmi 13C (Stardust Black, 4GB RAM, 128GB Storage) ",
+        "price":  389,
+        "color": "#33505a",
+        "image": "assets/images/303138_0_wqtip0.png"
+    },
+    {
+        "id": 6,
+        "name":  "Boult x Mustang Torq",
+        "desc":  "Boult x Mustang Torq Newly Launched Truly Wireless in Ear Earbuds with 50H Playtime, App Support, Quad Mic ENC, 45ms Low Latency, Breathing LEDs, 13mm Drivers, Made in India ear buds TWS Bluetooth 5.4",
+        "price":  999,
+        "color": "#33505a",
+        "image": "assets/images/mustang.png"
+    }
+ ]
+
+}
