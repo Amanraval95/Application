@@ -38,7 +38,7 @@ class loginpageState extends State<loginpage> {
           child: Column(
             children: [
               Image.asset(
-                "assets/images/login.png",
+                "assets/images/dark _login.jpg",
                 fit: BoxFit.cover,
               ),
               SizedBox(
@@ -82,7 +82,7 @@ class loginpageState extends State<loginpage> {
                     children: [
                       TextFormField(
                         style: TextStyle(
-                          color:context.theme.colorScheme.primary,
+                          color: context.theme.colorScheme.primary,
                           fontWeight: FontWeight.bold,
                         ),
                         cursorColor: context.theme.colorScheme.primary,
@@ -185,12 +185,13 @@ class loginpageState extends State<loginpage> {
                                 ? Icon(
                                     Icons.done,
                                     color: context.theme.colorScheme.onPrimary,
-                              size: 25,
+                                    size: 25,
                                   )
                                 : Text(
                                     "Login",
                                     style: TextStyle(
-                                      color: context.theme.colorScheme.onPrimary,
+                                      color:
+                                          context.theme.colorScheme.onPrimary,
                                       fontWeight: FontWeight.bold,
                                       fontSize: 17,
                                     ),
